@@ -19,11 +19,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
  </div>
  
- <div>
-  <a href="https://github.com/tuxlipe">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=tuxlipe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>   
-</div>
- 
  <div style="display: inline_block"> 
   <h3> 🤝🏻 Contate-me </h3>
   <p align="left">
@@ -32,6 +27,11 @@
   &nbsp; <a href="mailto:dantas.felipe.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   </p>
  </div>
+ 
+  <div>
+  <a href="https://github.com/tuxlipe">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=tuxlipe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>   
+</div>
  
  <div>
   <h6 align="right">Cobrinha by RafaBallerini</h6>
