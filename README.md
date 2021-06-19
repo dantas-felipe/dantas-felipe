@@ -1,5 +1,5 @@
  <h2>Olá, sou Felipe Dantas <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="426"/>
+ <img align="left" alt="GIF" src="/gif3.gif" width="500" height="426"/>
  
  <h3>Sobre Mim</h3>
  - 🔭 &nbsp; Atualmente estou estudando JavaScript.<br>
