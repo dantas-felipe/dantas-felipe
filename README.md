@@ -17,7 +17,7 @@
  
  <div>
   <a href="https://github.com/tuxlipe">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=tuxlipe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>   
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=tuxlipe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>   
 </div>
  
  <h3> 🤝🏻 Contate-me </h3>
