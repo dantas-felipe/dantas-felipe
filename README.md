@@ -5,7 +5,7 @@
  - 🔭 &nbsp; Atualmente estou estudando JavaScript.<br>
  - 🎓 &nbsp; Estudante autodidata de programação.<br>
  - 💼 &nbsp; Em busca de ser um desenvolvedor front-end.<br>
- - ☕ &nbsp; Aprendendo a gostar de café 🤔. 
+ - ☕ &nbsp; Aprendendo a gostar de café 😀. 
  
 <div style="display: inline_block"><br>
  <h5>Tecnologias</h5>
