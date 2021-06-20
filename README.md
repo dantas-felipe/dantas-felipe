@@ -27,7 +27,7 @@
   &nbsp; <a href="mailto:dantas.felipe.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/82758451/122668289-b740c000-d18d-11eb-917f-c85c27e84b93.png"  width="30" height="30" /></a>
   </p>
  </div><br><br><br>
- 
+ <br><br>
  <h2>🚀 &nbsp;Um pouco mais sobre meu perfil</h2>
 
 ![Felipe Dantas GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuxlipe&show_icons=true&theme=dracula)
