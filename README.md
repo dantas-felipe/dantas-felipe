@@ -30,7 +30,7 @@
  <br><br>
  <h2>🚀 &nbsp;Um pouco mais sobre meu perfil</h2>
 
-![Felipe Dantas GitHub Stats](https://github-readme-stats.vercel.app/api?username=dantas-felipe&show_icons=true&theme=dracula)
+![Felipe Dantas GitHub Stats](https://github-readme-stats.vercel.app/api?username=dantas-felipe&show_icons=true&theme=dark)
  
  <div>
   
