@@ -5,7 +5,7 @@
  
  <div>
  <h3>📖Sobre Mim</h3>
- - 🔭 &nbsp; Atualmente estou estudando JavaScript.<br>
+ - 🔭 &nbsp; Atualmente estou estudando JavaScript e React.<br>
  - 🎓 &nbsp; Estudante autodidata de programação.<br>
  - 💼 &nbsp; Em busca de ser um desenvolvedor front-end.<br>
  - ☕ &nbsp; Aprendendo a gostar de café 😀. 
@@ -17,6 +17,7 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=react)
  </div>
  
  <div style="display: inline_block"> 
